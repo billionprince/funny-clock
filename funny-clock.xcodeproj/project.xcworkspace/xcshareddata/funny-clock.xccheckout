@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2FCFC60A-83B2-4432-A744-815731C11F0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>funny-clock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C661D131-9A00-4E93-BC68-E46D499EF54F</key>
+		<string>https://github.com/billionprince/funny-clock</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>funny-clock/funny-clock.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C661D131-9A00-4E93-BC68-E46D499EF54F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/billionprince/funny-clock</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C661D131-9A00-4E93-BC68-E46D499EF54F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C661D131-9A00-4E93-BC68-E46D499EF54F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>funny-clock</string>
+		</dict>
+	</array>
+</dict>
+</plist>
